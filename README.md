@@ -25,3 +25,7 @@ Como vemos en la imagen, podemos acceder a cualquier tipo de cambio que queramos
 De sus siglas, Secure SHell FileSystem, es un sistema de archivos para Linux, que opera sobre archivos en una computadora remota usando un entorno seguro de acceso. En la computadora local donde se monta SSH FS, la implementación hace uso del módulo del kernel FUSE. De este modo, podemos interactuar con archivos remotos se forma segura con el servidor SSH como si estuviesen localmente.
 
 ![image](sshfs.png)
+
+Vamos a configurar esto de modo que podamos acceder a la máquina virtual del IaaS de la universidad para DMSI desde VSCode. 
+
+![image](sshdmsi.png)

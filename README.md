@@ -29,3 +29,7 @@ De sus siglas, Secure SHell FileSystem, es un sistema de archivos para Linux, qu
 Vamos a configurar esto de modo que podamos acceder a la máquina virtual del IaaS de la universidad para DMSI desde VSCode. 
 
 ![image](sshdmsi.png)
+
+# 5. Live Share
+
+La extensión de Live Share nos permite trabajar en un fichero de forma remota con colaboradores en tiempo real, tiene de forma integrada tanto audio como chat. 

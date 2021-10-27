@@ -33,3 +33,6 @@ Vamos a configurar esto de modo que podamos acceder a la máquina virtual del Ia
 # 5. Live Share
 
 La extensión de Live Share nos permite trabajar en un fichero de forma remota con colaboradores en tiempo real, tiene de forma integrada tanto audio como chat. 
+
+![image](liveshare.png)
+

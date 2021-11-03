@@ -42,3 +42,5 @@ Gitpod y GitHub Codespaces son entornos de desarrollo basados en la nube que per
 La diferencia entre Gitpod y Github es que Gitpod ofrece la funcionalidad de compartir una instantánea del espacio de trabajo con un compañero de trabajo, pero GitHub Codespaces no.
 
 Podemos acceder a nuestros repositorios de Github desde Gitpod, este nos permitirá ejecutar el código desde el terminal. Para ello tenemos que, desde Github, dar permisos a Gitpod. 
+
+![image](gitpodpermisos.png)
